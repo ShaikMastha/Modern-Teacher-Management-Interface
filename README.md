@@ -1,3 +1,5 @@
+![image alt](https://github.com/ShaikMastha/Modern-Teacher-Management-Interface/blob/ea9410cf696a0c1a1f6f56ffc499e20763bd3ea8/Scool%20mangement%20screenshot.png)
+
 # School Management System - Teacher Profile Interface
 
 A modern, responsive teacher management interface built with Next.js, TypeScript, and Tailwind CSS, based on the provided design reference.
